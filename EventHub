@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+    <h1>Event Hub</h1>
+    <nav>
+        <ul>
+            <li><a href="#upcoming-events">Upcoming Events</a></li>
+            <li><a href="#past-events">Past Events</a></li>
+    </nav>
+</head>
+
+<body>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>River Kayaking</h3>
+                <p>Come join us this summer for a 5 mile kayak down the Ohio River! Two-person and single kayaks are available.</p>
+                <img src=https://as1.ftcdn.net/v2/jpg/00/08/93/92/1000_F_8939213_Dh43jm8VF08EF70yYszxgh4rwhak2Jy5.jpg alt="Three groups of kayakers on a river">
+                <p>The next date for this event is <time datetime="2025-08-06">August 6, 2025</time>.Call or email us to reserve your spot!</p>
+                <p>Price:</p>
+                <ul>
+                    <li>Single-Person Kayak: $30</li>
+                    <li>Double-Person Kayak:$40</li>
+                </ul>
+            </article>
+            <article>
+                <h3>Downtown Art Walk and Food Truck Festival</h3>
+                <p>Come explore Cincinnati's amazing collection of street art and architecture, and grab a bite while doing so!</p>
+                <img src=https://scontent.fluk1-1.fna.fbcdn.net/v/t39.30808-6/509449321_1126520982849861_4990632080962035239_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yIwbE8cZg3UQ7kNvwG5XMZf&_nc_oc=AdmbHiiojy6MuUsDfkVGls-qREPGj_9twlIfnVh7ztF4gCSWtdQ0sN1mHGukgvwWO7V9n1Rla12OwEdLIoNHhoYa&_nc_zt=23&_nc_ht=scontent.fluk1-1.fna&_nc_gid=Ik5adGYOLgbgzr9PJ6Tl0Q&oh=00_AfUnG5wi4MSC0SIIC510rj9p-BJdnX9aor8Ji4eyXh_0dQ&oe=6895FCC7 alt="5 food trucks with people visiting">
+                <p>Entry is free, food and beverages are available for purchase. Event date is <time timedate="2025-08-24">August 24, 2025</time>.</p> 
+            </article>
+        </section>
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Sunset Yoga + Live DJ on the Rooftop</h3>
+                <p>A 60-minute vinyasa flow class led by a local instructor on a downtown rooftop, followed by chill beats from DJ Solace and kombucha tastings.</p>
+                <img src="https://as2.ftcdn.net/v2/jpg/12/81/85/49/1000_F_1281854971_LVRsZjBwKoOBAj4qQRNssakBNCdIh4vB.jpg" alt="rooftop yoga class">
+                <p>Attended: 48 people</p>
+                <p>Price: $5/person</p>
+                <p>Date: <time datetime="2025-05-26">May 26, 2025</time></p>
+            </article>
+            <article>
+                <h3>Haunted History Bar Crawl</h3>
+                <p>This eerie evening adventure took guests on a guided bar crawl through Cincinnati’s haunted Over-the-Rhine district. From beer halls to basements, we uncovered the city’s dark past—full of restless spirits, secret tunnels, and unsolved crimes.</p>
+                <img src="https://as2.ftcdn.net/v2/jpg/11/27/32/13/1000_F_1127321380_Lm65h266fBBQfAMixTyjZ2hGK4hddB9E.jpg" alt="Close-up image of Music Hall in Cincinnati, OH">
+                <p>Participants sipped craft cocktails while learning the chilling stories behind sites like (but not limited to):</p>
+                <ul>
+                    <li>Music Hall – Once a pauper’s cemetery, this stunning landmark is said to echo with ghostly footsteps and shadowy figures.</li>
+                    <li>The Lackman Building – Now a lively bar, but rumored to be haunted by former brewery workers and Prohibition-era spirits.</li>
+                </ul>
+                <p>Guides shared both documented history and whispered legends, creating a night of creepy fun, community, and craft drinks.</p>
+                <p>Price: $25/person (inlcudes 1 drink ticket + guided tour)</p>
+                <p>Date: <time datetime="2024-10-14">October 14, 2024</time></p>
+            </article>
+        </section>
+    </main>
+</body>
+
+</html>
